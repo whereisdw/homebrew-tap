@@ -1,7 +1,7 @@
 # Dawon Labs Homebrew tap
 
 ```sh
-brew install --cask whereisdw/tap/lidnight
+brew install whereisdw/tap/lidnight
 ```
 
 - **Lidnight** — keeps a MacBook awake with the lid closed while AI agents work, then sleeps. https://lidnight.app
