@@ -11,4 +11,4 @@ brew install whereisdw/tap/lidnight
   brew install --cask whereisdw/tap/lidnight-limits
   ```
 
-The app updates itself; `brew upgrade --cask lidnight` also works. This tap is updated automatically on every release.
+Lidnight updates itself (`brew upgrade --cask lidnight` also works). Lidnight Limits: `brew upgrade --cask lidnight-limits`. This tap is updated automatically on every release.
