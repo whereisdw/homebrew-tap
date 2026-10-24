@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "lidnight" do
-  version "1.7.93"
-  sha256 "89bc303522d77645796daa5222a3e706223809b507095b35589c53393a76752a"
+  version "1.7.94"
+  sha256 "8835ae363d3eb814f1bca17feea6f88c7f4a45cacfa8e8570ac7d4c09db11471"
 
   url "https://lidnight.app/download/Lidnight-#{version}.dmg"
   name "Lidnight"
